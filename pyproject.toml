@@ -31,6 +31,9 @@ dependencies = [
     "typeshed_client",
 ]
 
+[project.scripts]
+infer-types = "infer_types:__main__"
+
 [project.optional-dependencies]
 test = [
     "pytest",
