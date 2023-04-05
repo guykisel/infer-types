@@ -1,0 +1,6 @@
+-   id: infer_types
+    name: infer types
+    description: This infers python types
+    entry: infer_types
+    language: python
+    types: [python]
